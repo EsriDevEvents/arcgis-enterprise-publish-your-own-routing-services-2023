@@ -1,0 +1,9 @@
+-P=portal_url
+-S=server_url
+-u=username
+-p=password
+-s=TravelDirections
+-o=C:\SD
+-tbx=C:\TravelDirections\TravelDirections.tbx
+-t=GetTravelDirections
+-f=C:\publish-web-tool\tool_inputs.json
