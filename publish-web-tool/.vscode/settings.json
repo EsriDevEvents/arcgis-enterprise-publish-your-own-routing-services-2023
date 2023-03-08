@@ -1,0 +1,25 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": [
+        "--disable=locally-disabled",
+        "--max-line-length=120",
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.pydocstyleEnabled": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pycodestylePath": "pycodestyle",
+    "python.linting.pycodestyleArgs": [
+        "--max-line-length=120"
+    ],
+
+    "editor.wordWrap": "on",
+    "editor.rulers": [120],
+
+    "files.associations": {
+        "*.pyt": "python"
+    },
+    "cSpell.words": [
+        "reusejobdir",
+        "sddraft"
+    ]
+}

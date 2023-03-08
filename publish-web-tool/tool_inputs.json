@@ -1,0 +1,5 @@
+{
+    "stops": "C:\\TravelDirections\\SampleInput\\SampleInput.gdb\\Stops",
+    "network_dataset": "C:\\TravelDirections\\ToolData\\SanDiego.gdb\\Transportation\\Streets_ND",
+    "travel_mode": "Driving Time"
+}
