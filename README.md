@@ -1,4 +1,4 @@
-# ArcGIS Enterprise: ArcGIS Enterprise: Publish Your Own Routing Services
+# ArcGIS Enterprise: Publish Your Own Routing Services
 
 ## Repository description
 This repository contains resource to the "ArcGIS Enterprise: Publish Your Own Routing Services" technical session at Esri Developer Summit 2023.
