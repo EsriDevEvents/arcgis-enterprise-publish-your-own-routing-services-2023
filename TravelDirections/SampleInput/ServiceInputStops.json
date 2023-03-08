@@ -1,0 +1,19 @@
+{
+    "features": [{
+        "attributes": {
+            "Name": "Stop 1"
+        },
+        "geometry": {
+            "x": "-117.2",
+            "y": "32.76"
+        }
+    }, {
+        "attributes": {
+            "Name": "Stop 2"
+        },
+        "geometry": {
+            "x": "-117.15",
+            "y": "32.66"
+        }
+    }]
+}
